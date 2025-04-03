@@ -1,4 +1,4 @@
-# 331AI
+# Nikita Xalxo 300651670 331AI
 # AIML331 Assignment 1 - Computer Vision Fundamentals
 
 ## Overview
